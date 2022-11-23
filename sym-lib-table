@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "engineering")(type "Legacy")(uri "${KIOENGLIB}/engineering.lib")(options "")(descr ""))
+  (lib (name "CNC-Boosterpack-rescue")(type "Legacy")(uri "${KIPRJMOD}/CNC Boosterpack-rescue.lib")(options "")(descr ""))
+)
