@@ -6,9 +6,9 @@
 
   (title_block
     (title "GRBLhal Boosterpack")
-    (date "2022-11-23")
-    (rev "1.0")
-    (comment 1 "ruined by Sönke Peters")
+    (date "2022-12-20")
+    (rev "1.2")
+    (comment 1 "by Sönke Peters")
     (comment 2 "based on work by Terje Io and Expatria Technologies")
     (comment 4 "Licensed under CERN OHL v.1.2 or later")
   )
