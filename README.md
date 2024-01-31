@@ -11,7 +11,8 @@ There were two objectives for this:
 
 ![photo of BoosterWing with TM4C1294 board](IMG_20240131_145519_2048px.jpg)
 
-![PCB front](CNC Boosterpack_pcbf.png)
-![PCB back](CNC Boosterpack_pcbb.png)
+![PCB front](CNC%20Boosterpack_pcbf.png)
 
-[Schematics](CNC Boosterpack.pdf)
+![PCB back](CNC%20Boosterpack_pcbb.png)
+
+[![Schematics](CNC%20Boosterpack_schem_1.png)](CNC%20Boosterpack.pdf)
